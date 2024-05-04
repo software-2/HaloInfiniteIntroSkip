@@ -7,6 +7,8 @@ If you replace the intro video with a short video, it'll play that instead. You 
 
 Run **RemoveIntro.bat** to remove the intro, and **RestoreIntro.bat** if you want to bring it back.
 
+Windows 11 requires you to run this as administrator.
+
 This works on both the Steam and Xbox Store versions of the game.
 
 # Manual Instructions
@@ -15,4 +17,4 @@ Replace this file with the one included in this repository. The file must be nam
 
 C:\XboxGames\Halo Infinite\Content\videos\intro.mp4
 
-C:\Program Files (x86)\Steam\steamapps\common\Halo Infinite\Content\videos\intro.mp4
+C:\Program Files (x86)\Steam\steamapps\common\Halo Infinite\videos\intro.mp4
